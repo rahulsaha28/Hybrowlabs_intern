@@ -1,0 +1,19 @@
+{
+  "name": "intern_1",
+  "version": "1.0.0",
+  "description": "\"API For Service\"",
+  "main": "index.js",
+  "author": "Rahul Saha",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
